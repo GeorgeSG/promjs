@@ -1,6 +1,6 @@
 {
   "name": "promjs-gardev",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "A fork of PromJS",
   "main": "index.js",
   "scripts": {
